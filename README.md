@@ -21,8 +21,6 @@ Hi! I'm Deepikarthini Kanche — a Software Test Engineer Apprentice at Cisco Sy
 
 • Advanced LLM Engineering
 
-• Kubernetes
-
 • System Design
 
 • Cloud Technologies
@@ -238,8 +236,6 @@ NVIDIA DCGM Exporter
 🧠 Advanced LLM Engineering
 
 📚 Retrieval-Augmented Generation (RAG)
-
-⚙️ Kubernetes
 
 ☁️ Cloud Computing
 
