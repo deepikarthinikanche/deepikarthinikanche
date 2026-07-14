@@ -1,82 +1,187 @@
-# Hi 👋 I'm Deepikarthini Kanche
+# Hello Fellow < Developers />! 👋
 
-## Software Test Engineer Apprentice @ Cisco
-
-AI Engineer | Software Engineer | Full Stack Developer
-
-I enjoy building scalable software, AI-powered applications, and modern web applications.
+# Hi! I'm Deepikarthini Kanche — a Software Test Engineer Apprentice at Cisco Systems passionate about AI Engineering, Software Development, and Full Stack Development.
 
 ---
 
-## About Me
+# 👩‍💻 About Me
 
-🎓 Computer Science Graduate
+💼 Software Test Engineer Apprentice @ Cisco Systems (Jun 2025 – Present)
 
-💼 Software Test Engineer Apprentice at Cisco
+🤖 Working on AI Infrastructure Validation, Large Language Model (LLM) Benchmarking, and Enterprise Test Automation.
 
-🤖 Working on AI Infrastructure Validation
+📊 Hands-on experience with NVIDIA NIM, AIPerf, Docker, Prometheus, Grafana, and enterprise AI deployments.
 
-📈 LLM Benchmarking
+💻 Passionate about AI Engineering, Backend Development, Full Stack Development, and building scalable software solutions.
 
-⚡ Test Automation
 
-🌱 Currently Learning
+🌱 Currently learning
 
 • AI Agents
 
-• Advanced RAG
+• Advanced LLM Engineering
 
 • Kubernetes
 
 • System Design
 
-🎯 Looking for
+• Cloud Technologies
 
-Software Engineer
+🏆 Open Source Contributor – GirlScript Summer of Code (GSSoC) 2026
 
-AI Engineer
-
-Backend Engineer
+🎯 Open to Software Engineer, AI Engineer, Backend Engineer, and Full Stack Developer opportunities.
 
 ---
 
-## Tech Stack
+# 💼 Experience
 
-### Languages
+## 🟢 Cisco Systems — Software Test Engineer Apprentice
 
-Python
+### Jun 2025 – Present
 
-Java
+• Validating enterprise AI infrastructure for Large Language Model deployments.
 
-JavaScript
+• Performing LLM benchmarking using AIPerf to evaluate latency, throughput, TTFT, concurrency, and GPU utilization.
 
-SQL
+• Deploying and validating AI models using NVIDIA NIM containers.
 
-### Frontend
+• Building monitoring dashboards with Prometheus and Grafana.
+
+• Automating enterprise testing workflows using Python and Selenium.
+
+• Collaborating with engineering teams to improve AI system performance, reliability, and automation.
+
+---
+
+# 🚀 Featured Projects
+
+## 🐞 Bug Reproduction Tracker
+
+**Spring Boot • React • PostgreSQL • JWT**
+
+• Developed a full-stack bug tracking application with secure JWT authentication and role-based access control.
+
+• Implemented bug creation, assignment, status tracking, and dashboard features.
+
+• Built REST APIs using Spring Boot with PostgreSQL integration.
+
+🔗 GitHub Repository
+
+---
+
+## 🌐 Personal Portfolio
+
+**React • Tailwind CSS**
+
+• Designed and developed a responsive portfolio website showcasing projects, skills, certifications, and professional experience.
+
+• Optimized for performance and mobile responsiveness.
+
+🔗 Portfolio Website
+
+🔗 GitHub Repository
+
+---
+
+## 📊 AI Performance Dashboard
+
+**Python • Grafana • Prometheus • NVIDIA NIM**
+
+• Built dashboards to monitor AI infrastructure and LLM performance.
+
+• Visualized latency, throughput, GPU utilization, and Time to First Token (TTFT).
+
+• Worked with observability tools for enterprise AI workloads.
+
+🔗 GitHub Repository
+
+---
+
+## 🤖 AI Infrastructure Benchmarking
+
+**Python • AIPerf • Docker • NVIDIA NIM**
+
+• Benchmarked Large Language Models using AIPerf.
+
+• Analyzed latency, throughput, concurrency, and GPU utilization.
+
+• Worked with NVIDIA NIM containers for enterprise AI model validation.
+
+🔗 GitHub Repository
+
+---
+
+## 🤖 Selenium Automation Framework
+
+**Java • Selenium • TestNG • Maven**
+
+• Developed a reusable Selenium automation framework using the Page Object Model.
+
+• Automated end-to-end UI test cases with TestNG.
+
+• Improved testing efficiency through reusable components and reporting.
+
+🔗 GitHub Repository
+
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Languages
+
+Python • Java • JavaScript • SQL
+
+---
+
+## 🤖 AI & Generative AI
+
+Large Language Models (LLMs)
+
+Retrieval-Augmented Generation (RAG)
+
+Prompt Engineering
+
+NVIDIA NIM
+
+Hugging Face
+
+AIPerf
+
+---
+
+## 🎨 Frontend
 
 React
 
-HTML
+HTML5
 
-CSS
+CSS3
 
 Tailwind CSS
 
-### Backend
+JavaScript
+
+---
+
+## ⚙️ Backend
 
 Spring Boot
 
-FastAPI
-
 REST APIs
 
-### Database
+FastAPI
+
+---
+
+## 🗄️ Database
 
 PostgreSQL
 
 MySQL
 
-### DevOps
+---
+
+## ☁️ DevOps & Tools
 
 Docker
 
@@ -86,17 +191,13 @@ GitHub
 
 Linux
 
-### AI
+VS Code
 
-LLMs
+Postman
 
-RAG
+---
 
-NVIDIA NIM
-
-Hugging Face
-
-### Testing
+## 🧪 Testing
 
 Selenium
 
@@ -104,58 +205,52 @@ JUnit
 
 TestNG
 
-### Monitoring
+Maven
+
+---
+
+## 📈 Monitoring & Observability
 
 Prometheus
 
 Grafana
 
----
-
-## Featured Projects
-
-### AI Resume Analyzer
-
-LLM
-
-RAG
-
-React
-
-FastAPI
-
-### Bug Tracking System
-
-Spring Boot
-
-React
-
-JWT
-
-PostgreSQL
-
-### AI Performance Dashboard
-
-Grafana
-
-Prometheus
-
-Python
-
-### Automation Framework
-
-Java
-
-Selenium
-
-TestNG
+NVIDIA DCGM Exporter
 
 ---
 
-## Connect with Me
+# 🏆 Certifications & Achievements
 
-Portfolio
+🏅 Cisco Certified Network Associate (CCNA)
 
-LinkedIn
+🌟 GirlScript Summer of Code (GSSoC) 2026 Contributor
 
-Email
+🎓 Bachelor of Technology in Computer Science Engineering
+
+🚀 Passionate about AI Engineering and Scalable Software Development
+
+---
+
+# 📈 Currently Exploring
+
+🤖 AI Agents
+
+🧠 Advanced LLM Engineering
+
+📚 Retrieval-Augmented Generation (RAG)
+
+⚙️ Kubernetes
+
+☁️ Cloud Computing
+
+🏗️ System Design
+
+---
+
+# 📫 Connect With Me
+
+🌐 Portfolio
+
+💼 LinkedIn
+
+📧 Email
