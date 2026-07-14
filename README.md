@@ -249,8 +249,10 @@ NVIDIA DCGM Exporter
 
 # 📫 Connect With Me
 
-🌐 Portfolio
+🌐 **Portfolio:** [Visit My Portfolio](https://deepikarthinikanche.netlify.app/)
 
-💼 LinkedIn
+💼 **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/your-linkedin-username/)
 
-📧 Email
+📧 **Email:** [deepikarthinikanche444@gmail.com](mailto:deepikarthinikanche444@gmail.com)
+
+💻 **GitHub:** [GitHub Profile](https://github.com/your-github-username)
