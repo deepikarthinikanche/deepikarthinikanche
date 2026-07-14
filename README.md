@@ -249,10 +249,7 @@ NVIDIA DCGM Exporter
 
 # 📫 Connect With Me
 
-🌐 **Portfolio:** [Visit My Portfolio](https://deepikarthinikanche.netlify.app/)
-
-💼 **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/your-linkedin-username/)
-
-📧 **Email:** [deepikarthinikanche444@gmail.com](mailto:deepikarthinikanche444@gmail.com)
-
-💻 **GitHub:** [GitHub Profile](https://github.com/your-github-username)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://deepikarthinikanche.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deepikarthinikanche/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/deepikarthinikanche)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:deepikarthinikanche444@gmail.com)
