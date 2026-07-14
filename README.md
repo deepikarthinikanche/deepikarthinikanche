@@ -1,6 +1,6 @@
 # Hello Fellow < Developers />! 👋
 
-# Hi! I'm Deepikarthini Kanche — a Software Test Engineer Apprentice at Cisco Systems passionate about AI Engineering, Software Development, and Full Stack Development.
+Hi! I'm Deepikarthini Kanche — a Software Test Engineer Apprentice at Cisco Systems passionate about AI Engineering, Software Development, and Full Stack Development.
 
 ---
 
